@@ -16,8 +16,7 @@ ekspor . menu   = ( id , BotName , corohelp , tampilTanggal , tampilWaktu , inst
 ├≽️ *.Owner*
 ├ _Info Admin bot_
 ╰═══════════════
-
-╭════•›「 GRUP 」
+╭════ • ›「 GRUP 」
 ├≽️ *.Setname*
 ├ _Merubah nama grup_
 ├≽️ *.Setdesc*
