@@ -1,4 +1,4 @@
-exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, aktif) => {
+ekspor . menu   = ( id , BotName , corohelp , tampilTanggal , tampilWaktu , instagram , aktif ) => {
 	return ` *${BotName}*
   
 *${tampilTanggal}* 
@@ -8,7 +8,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 「 VVIPINDO BOT 」
 
-╭════•›「 ${BotName} 」
+╭════ • ›「 $ {BotName} 」
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
 ├≽️ *.Group* 
