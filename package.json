@@ -1,5 +1,5 @@
 {
-  "name": "AINEBOT",
+  "nama" : "APBOT" ,
   "version": "1.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
@@ -23,8 +23,8 @@
     "node-gtts": "^2.0.2",
     "request": "^2.88.2",
     "text-to-mp3": "^1.0.4",
-    "urlencode": "^1.1.0",
-    "webp-simple-converter": "^0.0.6",
+    "urlencode" : "^ 1.1.0" ,
+    "webp-simple-converter" : "^ 0.0.6" ,
     "ytdl": "^1.3.5",
     "ytdl-core": "^3.4.2"
   },
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anemio/ainebote"
+    "url" : "git + https: //github.com/AGUSZ12/apbote"
   },
   "keywords": [
     "K"
@@ -42,7 +42,8 @@
   "author": "AINEBOT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anemio/ainebote/issues"
+    "url" : "https://github.com/AGUSZ12/apbote/issues"
   },
-  "homepage": "https://github.com/anemio/ainebote#readme"
+  "homepage" : "https://github.com/AGUSZ12/apbote#readme"  
 }
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
